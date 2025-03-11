@@ -3,9 +3,9 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+osTicket is an open-source help desk ticketing system that allows organizations to manage customer inquiries efficiently. In this guide, we will walk through the installation process step by step, setting up osTicket on a Windows environment using IIS, MySQL, and PHP.
 
-
+By the end of this tutorial, you will have a fully functional osTicket system ready for use. Let's get started!.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -17,36 +17,24 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Prerequisites:</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- osTicket-Installation-Files (for demonstration)
+- Microsoft Azure Virtual Machine
 
+
+
+
+
+  
 <h2>Installation Steps</h2>
-
+<h3>Step 1: Downloading installation files and enabling IIS wtih CGI</h3>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Launch your Azure virtual machine, and from within the virtual machine download and extract all the installation files that include the dependencies. To enable IIS, go to the start menu --> control panel --> programs --> then, on the left click 'Turn Windows features on or off", and check and expand Internet Information Services
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
