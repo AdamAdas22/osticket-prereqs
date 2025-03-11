@@ -23,6 +23,7 @@ By the end of this tutorial, you will have a fully functional osTicket system re
 - Microsoft Azure Virtual Machine
 
 
+![image](https://github.com/user-attachments/assets/e4b421ae-46ab-4e74-9dbe-026582a92ad4)
 
 
 
@@ -30,7 +31,8 @@ By the end of this tutorial, you will have a fully functional osTicket system re
 <h2>Installation Steps</h2>
 <h3>Step 1: Downloading installation files and enabling IIS wtih CGI</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![image](https://github.com/user-attachments/assets/e4b421ae-46ab-4e74-9dbe-026582a92ad4)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
 </p>
 
 <p>
